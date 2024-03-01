@@ -13,7 +13,14 @@ For help getting started with Flutter, view our
 https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
+- ## resultados de mi pagina
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- Link de referencia:
+- https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit?pli=1
+- https://docs.flutter.dev/cookbook/design/drawer
+
+- Ivan Hernandez: a.21308051280371@cbtis128.edu.mx
+
+- ![image](https://github.com/Hernandezc128/p12-entrepaginas/assets/143743758/07da3364-a83d-46d0-9133-e713ad58dc10)
+- ![image](https://github.com/Hernandezc128/p12-entrepaginas/assets/143743758/491ac284-fa80-4195-a017-9e4ea4ce0848)
+
